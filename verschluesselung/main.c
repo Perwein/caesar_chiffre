@@ -45,7 +45,7 @@ int main(int argc, const char * argv[]) {
             puts(str);
         }
         
-        
+    
         
     } while (strcmp(buf,"quit\n"));
     
